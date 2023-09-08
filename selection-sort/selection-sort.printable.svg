@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="801"
-   height="301"
-   viewBox="0 0 801 301"
+   width="805"
+   height="305"
+   viewBox="0 0 805 305"
    version="1.1"
    id="svg5"
    xml:space="preserve"
@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4912879"
-     inkscape:cx="400.6604"
-     inkscape:cy="130.0889"
+     inkscape:zoom="1.1888233"
+     inkscape:cx="255.29446"
+     inkscape:cy="253.19154"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg5"
      inkscape:lockguides="false" /><defs
      id="defs2"><linearGradient
        id="linearGradient1101"
@@ -45,7 +45,7 @@
          id="stop1099" /></linearGradient></defs><g
      id="0"
      data-name="0"
-     transform="translate(101,70.5)"><rect
+     transform="translate(103,72.5)"><rect
        id="rect0-1"
        width="18.75"
        height="25"
@@ -58,7 +58,7 @@
        style="font-size:25px;font-family:Consolas">0</text></g><g
      id="1"
      data-name="1"
-     transform="translate(176,70.5)"><rect
+     transform="translate(178,72.5)"><rect
        id="rect1-1"
        width="18.75"
        height="25"
@@ -71,7 +71,7 @@
        style="font-size:25px;font-family:Consolas">1</text></g><g
      id="2"
      data-name="2"
-     transform="translate(157.25,70.5)"><rect
+     transform="translate(159.25,72.5)"><rect
        id="rect2-1"
        width="18.75"
        height="25"
@@ -84,7 +84,7 @@
        style="font-size:25px;font-family:Consolas">2</text></g><g
      id="3"
      data-name="3"
-     transform="translate(26,70.5)"><rect
+     transform="translate(28,72.5)"><rect
        id="rect3-1"
        width="18.75"
        height="25"
@@ -97,7 +97,7 @@
        style="font-size:25px;font-family:Consolas">3</text></g><g
      id="4"
      data-name="4"
-     transform="translate(119.75,70.5)"><rect
+     transform="translate(121.75,72.5)"><rect
        id="rect4-1"
        width="18.75"
        height="25"
@@ -110,7 +110,7 @@
        style="font-size:25px;font-family:Consolas">4</text></g><g
      id="5"
      data-name="5"
-     transform="translate(44.75,70.5)"><rect
+     transform="translate(46.75,72.5)"><rect
        id="rect5-1"
        width="18.75"
        height="25"
@@ -123,7 +123,7 @@
        style="font-size:25px;font-family:Consolas">5</text></g><g
      id="6"
      data-name="6"
-     transform="translate(138.5,70.5)"><rect
+     transform="translate(140.5,72.5)"><rect
        id="rect6-1"
        width="18.75"
        height="25"
@@ -136,7 +136,7 @@
        style="font-size:25px;font-family:Consolas">6</text></g><g
      id="7"
      data-name="7"
-     transform="translate(82.25,70.5)"><rect
+     transform="translate(84.25,72.5)"><rect
        id="rect7-1"
        width="18.75"
        height="25"
@@ -149,7 +149,7 @@
        style="font-size:25px;font-family:Consolas">7</text></g><g
      id="8"
      data-name="8"
-     transform="translate(7.25,70.5)"><rect
+     transform="translate(9.25,72.5)"><rect
        id="rect8-1"
        width="18.75"
        height="25"
@@ -162,7 +162,7 @@
        style="font-size:25px;font-family:Consolas">8</text></g><g
      id="9"
      data-name="9"
-     transform="translate(63.5,70.5)"><rect
+     transform="translate(65.5,72.5)"><rect
        id="rect9-1"
        width="18.75"
        height="25"
@@ -175,7 +175,7 @@
        style="font-size:25px;font-family:Consolas">9</text></g><g
      id="0-5"
      data-name="0"
-     transform="translate(301,45.5)"><rect
+     transform="translate(303,47.5)"><rect
        id="rect0-1-9"
        width="18.75"
        height="25"
@@ -188,7 +188,7 @@
        style="font-size:25px;font-family:Consolas">0</text></g><g
      id="1-7"
      data-name="1"
-     transform="translate(376,70.5)"><rect
+     transform="translate(378,72.5)"><rect
        id="rect1-1-5"
        width="18.75"
        height="25"
@@ -201,7 +201,7 @@
        style="font-size:25px;font-family:Consolas">1</text></g><g
      id="2-5"
      data-name="2"
-     transform="translate(357.25,70.5)"><rect
+     transform="translate(359.25,72.5)"><rect
        id="rect2-1-9"
        width="18.75"
        height="25"
@@ -214,7 +214,7 @@
        style="font-size:25px;font-family:Consolas">2</text></g><g
      id="3-0"
      data-name="3"
-     transform="translate(226,70.5)"><rect
+     transform="translate(228,72.5)"><rect
        id="rect3-1-8"
        width="18.75"
        height="25"
@@ -227,7 +227,7 @@
        style="font-size:25px;font-family:Consolas">3</text></g><g
      id="4-4"
      data-name="4"
-     transform="translate(319.75,70.5)"><rect
+     transform="translate(321.75,72.5)"><rect
        id="rect4-1-1"
        width="18.75"
        height="25"
@@ -240,7 +240,7 @@
        style="font-size:25px;font-family:Consolas">4</text></g><g
      id="5-0"
      data-name="5"
-     transform="translate(244.75,70.5)"><rect
+     transform="translate(246.75,72.5)"><rect
        id="rect5-1-5"
        width="18.75"
        height="25"
@@ -253,7 +253,7 @@
        style="font-size:25px;font-family:Consolas">5</text></g><g
      id="6-9"
      data-name="6"
-     transform="translate(338.5,70.5)"><rect
+     transform="translate(340.5,72.5)"><rect
        id="rect6-1-2"
        width="18.75"
        height="25"
@@ -266,7 +266,7 @@
        style="font-size:25px;font-family:Consolas">6</text></g><g
      id="7-6"
      data-name="7"
-     transform="translate(282.25,70.5)"><rect
+     transform="translate(284.25,72.5)"><rect
        id="rect7-1-0"
        width="18.75"
        height="25"
@@ -279,7 +279,7 @@
        style="font-size:25px;font-family:Consolas">7</text></g><g
      id="8-1"
      data-name="8"
-     transform="translate(207.25,70.5)"><rect
+     transform="translate(209.25,72.5)"><rect
        id="rect8-1-3"
        width="18.75"
        height="25"
@@ -292,7 +292,7 @@
        style="font-size:25px;font-family:Consolas">8</text></g><g
      id="9-1"
      data-name="9"
-     transform="translate(263.5,70.5)"><rect
+     transform="translate(265.5,72.5)"><rect
        id="rect9-1-8"
        width="18.75"
        height="25"
@@ -305,7 +305,7 @@
        style="font-size:25px;font-family:Consolas">9</text></g><g
      id="0-7"
      data-name="0"
-     transform="translate(407.25,5.5)"><rect
+     transform="translate(409.25,7.5)"><rect
        id="rect0-1-3"
        width="18.75"
        height="25"
@@ -318,7 +318,7 @@
        style="font-size:25px;font-family:Consolas">0</text></g><g
      id="1-2"
      data-name="1"
-     transform="translate(576,45.5)"><rect
+     transform="translate(578,47.5)"><rect
        id="rect1-1-6"
        width="18.75"
        height="25"
@@ -331,7 +331,7 @@
        style="font-size:25px;font-family:Consolas">1</text></g><g
      id="2-3"
      data-name="2"
-     transform="translate(557.25,70.5)"><rect
+     transform="translate(559.25,72.5)"><rect
        id="rect2-1-5"
        width="18.75"
        height="25"
@@ -344,7 +344,7 @@
        style="font-size:25px;font-family:Consolas">2</text></g><g
      id="3-2"
      data-name="3"
-     transform="translate(426,70.5)"><rect
+     transform="translate(428,72.5)"><rect
        id="rect3-1-2"
        width="18.75"
        height="25"
@@ -357,7 +357,7 @@
        style="font-size:25px;font-family:Consolas">3</text></g><g
      id="4-6"
      data-name="4"
-     transform="translate(519.75,70.5)"><rect
+     transform="translate(521.75,72.5)"><rect
        id="rect4-1-4"
        width="18.75"
        height="25"
@@ -370,7 +370,7 @@
        style="font-size:25px;font-family:Consolas">4</text></g><g
      id="5-1"
      data-name="5"
-     transform="translate(444.75,70.5)"><rect
+     transform="translate(446.75,72.5)"><rect
        id="rect5-1-9"
        width="18.75"
        height="25"
@@ -383,7 +383,7 @@
        style="font-size:25px;font-family:Consolas">5</text></g><g
      id="6-3"
      data-name="6"
-     transform="translate(538.5,70.5)"><rect
+     transform="translate(540.5,72.5)"><rect
        id="rect6-1-7"
        width="18.75"
        height="25"
@@ -396,7 +396,7 @@
        style="font-size:25px;font-family:Consolas">6</text></g><g
      id="7-61"
      data-name="7"
-     transform="translate(482.25,70.5)"><rect
+     transform="translate(484.25,72.5)"><rect
        id="rect7-1-8"
        width="18.75"
        height="25"
@@ -409,7 +409,7 @@
        style="font-size:25px;font-family:Consolas">7</text></g><g
      id="8-2"
      data-name="8"
-     transform="translate(407.25,70.5)"><rect
+     transform="translate(409.25,72.5)"><rect
        id="rect8-1-1"
        width="18.75"
        height="25"
@@ -422,7 +422,7 @@
        style="font-size:25px;font-family:Consolas">8</text></g><g
      id="9-9"
      data-name="9"
-     transform="translate(463.5,70.5)"><rect
+     transform="translate(465.5,72.5)"><rect
        id="rect9-1-81"
        width="18.75"
        height="25"
@@ -435,7 +435,7 @@
        style="font-size:25px;font-family:Consolas">9</text></g><g
      id="0-0"
      data-name="0"
-     transform="translate(607.25,5.5)"><rect
+     transform="translate(609.25,7.5)"><rect
        id="rect0-1-1"
        width="18.75"
        height="25"
@@ -448,7 +448,7 @@
        style="font-size:25px;font-family:Consolas">0</text></g><g
      id="1-8"
      data-name="1"
-     transform="translate(626,5.5)"><rect
+     transform="translate(628,7.5)"><rect
        id="rect1-1-3"
        width="18.75"
        height="25"
@@ -461,7 +461,7 @@
        style="font-size:25px;font-family:Consolas">1</text></g><g
      id="2-4"
      data-name="2"
-     transform="translate(757.25,45.5)"><rect
+     transform="translate(759.25,47.5)"><rect
        id="rect2-1-59"
        width="18.75"
        height="25"
@@ -474,7 +474,7 @@
        style="font-size:25px;font-family:Consolas">2</text></g><g
      id="3-6"
      data-name="3"
-     transform="translate(626,70.5)"><rect
+     transform="translate(628,72.5)"><rect
        id="rect3-1-0"
        width="18.75"
        height="25"
@@ -487,7 +487,7 @@
        style="font-size:25px;font-family:Consolas">3</text></g><g
      id="4-7"
      data-name="4"
-     transform="translate(719.75,70.5)"><rect
+     transform="translate(721.75,72.5)"><rect
        id="rect4-1-0"
        width="18.75"
        height="25"
@@ -500,7 +500,7 @@
        style="font-size:25px;font-family:Consolas">4</text></g><g
      id="5-4"
      data-name="5"
-     transform="translate(644.75,70.5)"><rect
+     transform="translate(646.75,72.5)"><rect
        id="rect5-1-3"
        width="18.75"
        height="25"
@@ -513,7 +513,7 @@
        style="font-size:25px;font-family:Consolas">5</text></g><g
      id="6-97"
      data-name="6"
-     transform="translate(738.5,70.5)"><rect
+     transform="translate(740.5,72.5)"><rect
        id="rect6-1-4"
        width="18.75"
        height="25"
@@ -526,7 +526,7 @@
        style="font-size:25px;font-family:Consolas">6</text></g><g
      id="7-3"
      data-name="7"
-     transform="translate(682.25,70.5)"><rect
+     transform="translate(684.25,72.5)"><rect
        id="rect7-1-5"
        width="18.75"
        height="25"
@@ -539,7 +539,7 @@
        style="font-size:25px;font-family:Consolas">7</text></g><g
      id="8-7"
      data-name="8"
-     transform="translate(607.25,70.5)"><rect
+     transform="translate(609.25,72.5)"><rect
        id="rect8-1-7"
        width="18.75"
        height="25"
@@ -552,7 +552,7 @@
        style="font-size:25px;font-family:Consolas">8</text></g><g
      id="9-0"
      data-name="9"
-     transform="translate(663.5,70.5)"><rect
+     transform="translate(665.5,72.5)"><rect
        id="rect9-1-2"
        width="18.75"
        height="25"
@@ -565,7 +565,7 @@
        style="font-size:25px;font-family:Consolas">9</text></g><g
      id="0-54"
      data-name="0"
-     transform="translate(7.25,105.50001)"><rect
+     transform="translate(9.25,107.50001)"><rect
        id="rect0-1-2"
        width="18.75"
        height="25"
@@ -578,7 +578,7 @@
        style="font-size:25px;font-family:Consolas">0</text></g><g
      id="1-26"
      data-name="1"
-     transform="translate(26.000001,105.50001)"><rect
+     transform="translate(28.000001,107.50001)"><rect
        id="rect1-1-0"
        width="18.75"
        height="25"
@@ -591,7 +591,7 @@
        style="font-size:25px;font-family:Consolas">1</text></g><g
      id="2-35"
      data-name="2"
-     transform="translate(44.750001,105.50001)"><rect
+     transform="translate(46.750001,107.50001)"><rect
        id="rect2-1-56"
        width="18.75"
        height="25"
@@ -604,7 +604,7 @@
        style="font-size:25px;font-family:Consolas">2</text></g><g
      id="3-1"
      data-name="3"
-     transform="translate(26.000001,145.50001)"><rect
+     transform="translate(28.000001,147.50001)"><rect
        id="rect3-1-3"
        width="18.75"
        height="25"
@@ -617,7 +617,7 @@
        style="font-size:25px;font-family:Consolas">3</text></g><g
      id="4-67"
      data-name="4"
-     transform="translate(119.75,170.50001)"><rect
+     transform="translate(121.75,172.50001)"><rect
        id="rect4-1-9"
        width="18.75"
        height="25"
@@ -630,7 +630,7 @@
        style="font-size:25px;font-family:Consolas">4</text></g><g
      id="5-6"
      data-name="5"
-     transform="translate(44.750001,170.50001)"><rect
+     transform="translate(46.750001,172.50001)"><rect
        id="rect5-1-1"
        width="18.75"
        height="25"
@@ -643,7 +643,7 @@
        style="font-size:25px;font-family:Consolas">5</text></g><g
      id="6-8"
      data-name="6"
-     transform="translate(138.5,170.50001)"><rect
+     transform="translate(140.5,172.50001)"><rect
        id="rect6-1-3"
        width="18.75"
        height="25"
@@ -656,7 +656,7 @@
        style="font-size:25px;font-family:Consolas">6</text></g><g
      id="7-9"
      data-name="7"
-     transform="translate(82.250001,170.50001)"><rect
+     transform="translate(84.250001,172.50001)"><rect
        id="rect7-1-80"
        width="18.75"
        height="25"
@@ -669,7 +669,7 @@
        style="font-size:25px;font-family:Consolas">7</text></g><g
      id="8-5"
      data-name="8"
-     transform="translate(7.25,170.50001)"><rect
+     transform="translate(9.25,172.50001)"><rect
        id="rect8-1-75"
        width="18.75"
        height="25"
@@ -682,7 +682,7 @@
        style="font-size:25px;font-family:Consolas">8</text></g><g
      id="9-4"
      data-name="9"
-     transform="translate(63.500001,170.50001)"><rect
+     transform="translate(65.500001,172.50001)"><rect
        id="rect9-1-27"
        width="18.75"
        height="25"
@@ -695,7 +695,7 @@
        style="font-size:25px;font-family:Consolas">9</text></g><g
      id="0-53"
      data-name="0"
-     transform="translate(207.24998,105.5)"><rect
+     transform="translate(209.24998,107.5)"><rect
        id="rect0-1-4"
        width="18.75"
        height="25"
@@ -708,7 +708,7 @@
        style="font-size:25px;font-family:Consolas">0</text></g><g
      id="1-6"
      data-name="1"
-     transform="translate(225.99998,105.5)"><rect
+     transform="translate(227.99998,107.5)"><rect
        id="rect1-1-1"
        width="18.75"
        height="25"
@@ -721,7 +721,7 @@
        style="font-size:25px;font-family:Consolas">1</text></g><g
      id="2-7"
      data-name="2"
-     transform="translate(244.74998,105.5)"><rect
+     transform="translate(246.74998,107.5)"><rect
        id="rect2-1-1"
        width="18.75"
        height="25"
@@ -734,7 +734,7 @@
        style="font-size:25px;font-family:Consolas">2</text></g><g
      id="3-8"
      data-name="3"
-     transform="translate(263.49998,105.5)"><rect
+     transform="translate(265.49998,107.5)"><rect
        id="rect3-1-85"
        width="18.75"
        height="25"
@@ -747,7 +747,7 @@
        style="font-size:25px;font-family:Consolas">3</text></g><g
      id="4-2"
      data-name="4"
-     transform="translate(319.74998,145.5)"><rect
+     transform="translate(321.74998,147.5)"><rect
        id="rect4-1-18"
        width="18.75"
        height="25"
@@ -760,7 +760,7 @@
        style="font-size:25px;font-family:Consolas">4</text></g><g
      id="5-18"
      data-name="5"
-     transform="translate(244.74998,170.5)"><rect
+     transform="translate(246.74998,172.5)"><rect
        id="rect5-1-6"
        width="18.75"
        height="25"
@@ -773,7 +773,7 @@
        style="font-size:25px;font-family:Consolas">5</text></g><g
      id="6-99"
      data-name="6"
-     transform="translate(338.49998,170.5)"><rect
+     transform="translate(340.49998,172.5)"><rect
        id="rect6-1-8"
        width="18.75"
        height="25"
@@ -786,7 +786,7 @@
        style="font-size:25px;font-family:Consolas">6</text></g><g
      id="7-5"
      data-name="7"
-     transform="translate(282.24998,170.5)"><rect
+     transform="translate(284.24998,172.5)"><rect
        id="rect7-1-7"
        width="18.75"
        height="25"
@@ -799,7 +799,7 @@
        style="font-size:25px;font-family:Consolas">7</text></g><g
      id="8-25"
      data-name="8"
-     transform="translate(207.24998,170.5)"><rect
+     transform="translate(209.24998,172.5)"><rect
        id="rect8-1-4"
        width="18.75"
        height="25"
@@ -812,7 +812,7 @@
        style="font-size:25px;font-family:Consolas">8</text></g><g
      id="9-6"
      data-name="9"
-     transform="translate(263.49998,170.5)"><rect
+     transform="translate(265.49998,172.5)"><rect
        id="rect9-1-29"
        width="18.75"
        height="25"
@@ -825,7 +825,7 @@
        style="font-size:25px;font-family:Consolas">9</text></g><g
      id="0-02"
      data-name="0"
-     transform="translate(407.25003,105.49999)"><rect
+     transform="translate(409.25003,107.49999)"><rect
        id="rect0-1-7"
        width="18.75"
        height="25"
@@ -838,7 +838,7 @@
        style="font-size:25px;font-family:Consolas">0</text></g><g
      id="1-4"
      data-name="1"
-     transform="translate(426.00003,105.49999)"><rect
+     transform="translate(428.00003,107.49999)"><rect
        id="rect1-1-18"
        width="18.75"
        height="25"
@@ -851,7 +851,7 @@
        style="font-size:25px;font-family:Consolas">1</text></g><g
      id="2-38"
      data-name="2"
-     transform="translate(444.75003,105.49999)"><rect
+     transform="translate(446.75003,107.49999)"><rect
        id="rect2-1-4"
        width="18.75"
        height="25"
@@ -864,7 +864,7 @@
        style="font-size:25px;font-family:Consolas">2</text></g><g
      id="3-29"
      data-name="3"
-     transform="translate(463.50003,105.49999)"><rect
+     transform="translate(465.50003,107.49999)"><rect
        id="rect3-1-1"
        width="18.75"
        height="25"
@@ -877,7 +877,7 @@
        style="font-size:25px;font-family:Consolas">3</text></g><g
      id="4-3"
      data-name="4"
-     transform="translate(482.25003,105.49999)"><rect
+     transform="translate(484.25003,107.49999)"><rect
        id="rect4-1-13"
        width="18.75"
        height="25"
@@ -890,7 +890,7 @@
        style="font-size:25px;font-family:Consolas">4</text></g><g
      id="5-2"
      data-name="5"
-     transform="translate(444.75003,145.49999)"><rect
+     transform="translate(446.75003,147.49999)"><rect
        id="rect5-1-7"
        width="18.75"
        height="25"
@@ -903,7 +903,7 @@
        style="font-size:25px;font-family:Consolas">5</text></g><g
      id="6-83"
      data-name="6"
-     transform="translate(538.50003,170.49999)"><rect
+     transform="translate(540.50003,172.49999)"><rect
        id="rect6-1-6"
        width="18.75"
        height="25"
@@ -916,7 +916,7 @@
        style="font-size:25px;font-family:Consolas">6</text></g><g
      id="7-0"
      data-name="7"
-     transform="translate(482.25003,170.49999)"><rect
+     transform="translate(484.25003,172.49999)"><rect
        id="rect7-1-3"
        width="18.75"
        height="25"
@@ -929,7 +929,7 @@
        style="font-size:25px;font-family:Consolas">7</text></g><g
      id="8-3"
      data-name="8"
-     transform="translate(407.25003,170.49999)"><rect
+     transform="translate(409.25003,172.49999)"><rect
        id="rect8-1-8"
        width="18.75"
        height="25"
@@ -942,7 +942,7 @@
        style="font-size:25px;font-family:Consolas">8</text></g><g
      id="9-8"
      data-name="9"
-     transform="translate(463.50003,170.49999)"><rect
+     transform="translate(465.50003,172.49999)"><rect
        id="rect9-1-3"
        width="18.75"
        height="25"
@@ -955,7 +955,7 @@
        style="font-size:25px;font-family:Consolas">9</text></g><g
      id="0-3"
      data-name="0"
-     transform="translate(607.25,105.5)"><rect
+     transform="translate(609.25,107.5)"><rect
        id="rect0-1-48"
        width="18.75"
        height="25"
@@ -968,7 +968,7 @@
        style="font-size:25px;font-family:Consolas">0</text></g><g
      id="1-45"
      data-name="1"
-     transform="translate(626,105.5)"><rect
+     transform="translate(628,107.5)"><rect
        id="rect1-1-31"
        width="18.75"
        height="25"
@@ -981,7 +981,7 @@
        style="font-size:25px;font-family:Consolas">1</text></g><g
      id="2-39"
      data-name="2"
-     transform="translate(644.75,105.5)"><rect
+     transform="translate(646.75,107.5)"><rect
        id="rect2-1-40"
        width="18.75"
        height="25"
@@ -994,7 +994,7 @@
        style="font-size:25px;font-family:Consolas">2</text></g><g
      id="3-17"
      data-name="3"
-     transform="translate(663.5,105.5)"><rect
+     transform="translate(665.5,107.5)"><rect
        id="rect3-1-6"
        width="18.75"
        height="25"
@@ -1007,7 +1007,7 @@
        style="font-size:25px;font-family:Consolas">3</text></g><g
      id="4-73"
      data-name="4"
-     transform="translate(682.25,105.5)"><rect
+     transform="translate(684.25,107.5)"><rect
        id="rect4-1-11"
        width="18.75"
        height="25"
@@ -1020,7 +1020,7 @@
        style="font-size:25px;font-family:Consolas">4</text></g><g
      id="5-5"
      data-name="5"
-     transform="translate(701,105.5)"><rect
+     transform="translate(703,107.5)"><rect
        id="rect5-1-94"
        width="18.75"
        height="25"
@@ -1033,7 +1033,7 @@
        style="font-size:25px;font-family:Consolas">5</text></g><g
      id="6-2"
      data-name="6"
-     transform="translate(738.5,145.5)"><rect
+     transform="translate(740.5,147.5)"><rect
        id="rect6-1-5"
        width="18.75"
        height="25"
@@ -1046,7 +1046,7 @@
        style="font-size:25px;font-family:Consolas">6</text></g><g
      id="7-2"
      data-name="7"
-     transform="translate(682.25,170.5)"><rect
+     transform="translate(684.25,172.5)"><rect
        id="rect7-1-88"
        width="18.75"
        height="25"
@@ -1059,7 +1059,7 @@
        style="font-size:25px;font-family:Consolas">7</text></g><g
      id="8-11"
      data-name="8"
-     transform="translate(607.25,170.5)"><rect
+     transform="translate(609.25,172.5)"><rect
        id="rect8-1-46"
        width="18.75"
        height="25"
@@ -1072,7 +1072,7 @@
        style="font-size:25px;font-family:Consolas">8</text></g><g
      id="9-12"
      data-name="9"
-     transform="translate(663.5,170.5)"><rect
+     transform="translate(665.5,172.5)"><rect
        id="rect9-1-1"
        width="18.75"
        height="25"
@@ -1085,7 +1085,7 @@
        style="font-size:25px;font-family:Consolas">9</text></g><g
      id="0-38"
      data-name="0"
-     transform="translate(7.25,205.5)"><rect
+     transform="translate(9.25,207.5)"><rect
        id="rect0-1-0"
        width="18.75"
        height="25"
@@ -1098,7 +1098,7 @@
        style="font-size:25px;font-family:Consolas">0</text></g><g
      id="1-1"
      data-name="1"
-     transform="translate(26,205.5)"><rect
+     transform="translate(28,207.5)"><rect
        id="rect1-1-11"
        width="18.75"
        height="25"
@@ -1111,7 +1111,7 @@
        style="font-size:25px;font-family:Consolas">1</text></g><g
      id="2-1"
      data-name="2"
-     transform="translate(44.75,205.5)"><rect
+     transform="translate(46.75,207.5)"><rect
        id="rect2-1-8"
        width="18.75"
        height="25"
@@ -1124,7 +1124,7 @@
        style="font-size:25px;font-family:Consolas">2</text></g><g
      id="3-25"
      data-name="3"
-     transform="translate(63.5,205.5)"><rect
+     transform="translate(65.5,207.5)"><rect
        id="rect3-1-22"
        width="18.75"
        height="25"
@@ -1137,7 +1137,7 @@
        style="font-size:25px;font-family:Consolas">3</text></g><g
      id="4-74"
      data-name="4"
-     transform="translate(82.25,205.5)"><rect
+     transform="translate(84.25,207.5)"><rect
        id="rect4-1-5"
        width="18.75"
        height="25"
@@ -1150,7 +1150,7 @@
        style="font-size:25px;font-family:Consolas">4</text></g><g
      id="5-8"
      data-name="5"
-     transform="translate(101,205.5)"><rect
+     transform="translate(103,207.5)"><rect
        id="rect5-1-2"
        width="18.75"
        height="25"
@@ -1163,7 +1163,7 @@
        style="font-size:25px;font-family:Consolas">5</text></g><g
      id="6-82"
      data-name="6"
-     transform="translate(119.75,205.5)"><rect
+     transform="translate(121.75,207.5)"><rect
        id="rect6-1-86"
        width="18.75"
        height="25"
@@ -1176,7 +1176,7 @@
        style="font-size:25px;font-family:Consolas">6</text></g><g
      id="7-1"
      data-name="7"
-     transform="translate(82.25,245.5)"><rect
+     transform="translate(84.25,247.5)"><rect
        id="rect7-1-31"
        width="18.75"
        height="25"
@@ -1189,7 +1189,7 @@
        style="font-size:25px;font-family:Consolas">7</text></g><g
      id="8-6"
      data-name="8"
-     transform="translate(7.25,270.5)"><rect
+     transform="translate(9.25,272.5)"><rect
        id="rect8-1-78"
        width="18.75"
        height="25"
@@ -1202,7 +1202,7 @@
        style="font-size:25px;font-family:Consolas">8</text></g><g
      id="9-7"
      data-name="9"
-     transform="translate(63.5,270.5)"><rect
+     transform="translate(65.5,272.5)"><rect
        id="rect9-1-0"
        width="18.75"
        height="25"
@@ -1215,7 +1215,7 @@
        style="font-size:25px;font-family:Consolas">9</text></g><g
      id="0-07"
      data-name="0"
-     transform="translate(207.25,205.5)"><rect
+     transform="translate(209.25,207.5)"><rect
        id="rect0-1-42"
        width="18.75"
        height="25"
@@ -1228,7 +1228,7 @@
        style="font-size:25px;font-family:Consolas">0</text></g><g
      id="1-89"
      data-name="1"
-     transform="translate(226,205.5)"><rect
+     transform="translate(228,207.5)"><rect
        id="rect1-1-62"
        width="18.75"
        height="25"
@@ -1241,7 +1241,7 @@
        style="font-size:25px;font-family:Consolas">1</text></g><g
      id="2-6"
      data-name="2"
-     transform="translate(244.75,205.5)"><rect
+     transform="translate(246.75,207.5)"><rect
        id="rect2-1-87"
        width="18.75"
        height="25"
@@ -1254,7 +1254,7 @@
        style="font-size:25px;font-family:Consolas">2</text></g><g
      id="3-67"
      data-name="3"
-     transform="translate(263.5,205.5)"><rect
+     transform="translate(265.5,207.5)"><rect
        id="rect3-1-9"
        width="18.75"
        height="25"
@@ -1267,7 +1267,7 @@
        style="font-size:25px;font-family:Consolas">3</text></g><g
      id="4-9"
      data-name="4"
-     transform="translate(282.25,205.5)"><rect
+     transform="translate(284.25,207.5)"><rect
        id="rect4-1-41"
        width="18.75"
        height="25"
@@ -1280,7 +1280,7 @@
        style="font-size:25px;font-family:Consolas">4</text></g><g
      id="5-46"
      data-name="5"
-     transform="translate(301,205.5)"><rect
+     transform="translate(303,207.5)"><rect
        id="rect5-1-60"
        width="18.75"
        height="25"
@@ -1293,7 +1293,7 @@
        style="font-size:25px;font-family:Consolas">5</text></g><g
      id="6-5"
      data-name="6"
-     transform="translate(319.75,205.5)"><rect
+     transform="translate(321.75,207.5)"><rect
        id="rect6-1-58"
        width="18.75"
        height="25"
@@ -1306,7 +1306,7 @@
        style="font-size:25px;font-family:Consolas">6</text></g><g
      id="7-21"
      data-name="7"
-     transform="translate(338.5,205.5)"><rect
+     transform="translate(340.5,207.5)"><rect
        id="rect7-1-9"
        width="18.75"
        height="25"
@@ -1319,7 +1319,7 @@
        style="font-size:25px;font-family:Consolas">7</text></g><g
      id="8-4"
      data-name="8"
-     transform="translate(207.25,245.5)"><rect
+     transform="translate(209.25,247.5)"><rect
        id="rect8-1-2"
        width="18.75"
        height="25"
@@ -1332,7 +1332,7 @@
        style="font-size:25px;font-family:Consolas">8</text></g><g
      id="9-88"
      data-name="9"
-     transform="translate(263.5,270.5)"><rect
+     transform="translate(265.5,272.5)"><rect
        id="rect9-1-12"
        width="18.75"
        height="25"
@@ -1345,7 +1345,7 @@
        style="font-size:25px;font-family:Consolas">9</text></g><g
      id="0-9"
      data-name="0"
-     transform="translate(407.25,205.5)"><rect
+     transform="translate(409.25,207.5)"><rect
        id="rect0-1-5"
        width="18.75"
        height="25"
@@ -1358,7 +1358,7 @@
        style="font-size:25px;font-family:Consolas">0</text></g><g
      id="1-10"
      data-name="1"
-     transform="translate(426,205.5)"><rect
+     transform="translate(428,207.5)"><rect
        id="rect1-1-9"
        width="18.75"
        height="25"
@@ -1371,7 +1371,7 @@
        style="font-size:25px;font-family:Consolas">1</text></g><g
      id="2-0"
      data-name="2"
-     transform="translate(444.75,205.5)"><rect
+     transform="translate(446.75,207.5)"><rect
        id="rect2-1-19"
        width="18.75"
        height="25"
@@ -1384,7 +1384,7 @@
        style="font-size:25px;font-family:Consolas">2</text></g><g
      id="3-09"
      data-name="3"
-     transform="translate(463.5,205.5)"><rect
+     transform="translate(465.5,207.5)"><rect
        id="rect3-1-84"
        width="18.75"
        height="25"
@@ -1397,7 +1397,7 @@
        style="font-size:25px;font-family:Consolas">3</text></g><g
      id="4-0"
      data-name="4"
-     transform="translate(482.25,205.5)"><rect
+     transform="translate(484.25,207.5)"><rect
        id="rect4-1-49"
        width="18.75"
        height="25"
@@ -1410,7 +1410,7 @@
        style="font-size:25px;font-family:Consolas">4</text></g><g
      id="5-3"
      data-name="5"
-     transform="translate(501,205.5)"><rect
+     transform="translate(503,207.5)"><rect
        id="rect5-1-8"
        width="18.75"
        height="25"
@@ -1423,7 +1423,7 @@
        style="font-size:25px;font-family:Consolas">5</text></g><g
      id="6-4"
      data-name="6"
-     transform="translate(519.75,205.5)"><rect
+     transform="translate(521.75,207.5)"><rect
        id="rect6-1-45"
        width="18.75"
        height="25"
@@ -1436,7 +1436,7 @@
        style="font-size:25px;font-family:Consolas">6</text></g><g
      id="7-51"
      data-name="7"
-     transform="translate(538.5,205.5)"><rect
+     transform="translate(540.5,207.5)"><rect
        id="rect7-1-2"
        width="18.75"
        height="25"
@@ -1449,7 +1449,7 @@
        style="font-size:25px;font-family:Consolas">7</text></g><g
      id="8-32"
      data-name="8"
-     transform="translate(557.25,205.5)"><rect
+     transform="translate(559.25,207.5)"><rect
        id="rect8-1-14"
        width="18.75"
        height="25"
@@ -1462,7 +1462,7 @@
        style="font-size:25px;font-family:Consolas">8</text></g><g
      id="9-66"
      data-name="9"
-     transform="translate(463.5,245.5)"><rect
+     transform="translate(465.5,247.5)"><rect
        id="rect9-1-5"
        width="18.75"
        height="25"
@@ -1475,7 +1475,7 @@
        style="font-size:25px;font-family:Consolas">9</text></g><g
      id="0-70"
      data-name="0"
-     transform="translate(607.25,205.5)"><rect
+     transform="translate(609.25,207.5)"><rect
        id="rect0-1-09"
        width="18.75"
        height="25"
@@ -1488,7 +1488,7 @@
        style="font-size:25px;font-family:Consolas">0</text></g><g
      id="1-0"
      data-name="1"
-     transform="translate(626,205.5)"><rect
+     transform="translate(628,207.5)"><rect
        id="rect1-1-35"
        width="18.75"
        height="25"
@@ -1501,7 +1501,7 @@
        style="font-size:25px;font-family:Consolas">1</text></g><g
      id="2-15"
      data-name="2"
-     transform="translate(644.75,205.5)"><rect
+     transform="translate(646.75,207.5)"><rect
        id="rect2-1-83"
        width="18.75"
        height="25"
@@ -1514,7 +1514,7 @@
        style="font-size:25px;font-family:Consolas">2</text></g><g
      id="3-9"
      data-name="3"
-     transform="translate(663.5,205.5)"><rect
+     transform="translate(665.5,207.5)"><rect
        id="rect3-1-89"
        width="18.75"
        height="25"
@@ -1527,7 +1527,7 @@
        style="font-size:25px;font-family:Consolas">3</text></g><g
      id="4-8"
      data-name="4"
-     transform="translate(682.25,205.5)"><rect
+     transform="translate(684.25,207.5)"><rect
        id="rect4-1-3"
        width="18.75"
        height="25"
@@ -1540,7 +1540,7 @@
        style="font-size:25px;font-family:Consolas">4</text></g><g
      id="5-9"
      data-name="5"
-     transform="translate(701,205.5)"><rect
+     transform="translate(703,207.5)"><rect
        id="rect5-1-14"
        width="18.75"
        height="25"
@@ -1553,7 +1553,7 @@
        style="font-size:25px;font-family:Consolas">5</text></g><g
      id="6-0"
      data-name="6"
-     transform="translate(719.75,205.5)"><rect
+     transform="translate(721.75,207.5)"><rect
        id="rect6-1-1"
        width="18.75"
        height="25"
@@ -1566,7 +1566,7 @@
        style="font-size:25px;font-family:Consolas">6</text></g><g
      id="7-4"
      data-name="7"
-     transform="translate(738.5,205.5)"><rect
+     transform="translate(740.5,207.5)"><rect
        id="rect7-1-72"
        width="18.75"
        height="25"
@@ -1579,7 +1579,7 @@
        style="font-size:25px;font-family:Consolas">7</text></g><g
      id="8-74"
      data-name="8"
-     transform="translate(757.25,205.5)"><rect
+     transform="translate(759.25,207.5)"><rect
        id="rect8-1-9"
        width="18.75"
        height="25"
@@ -1592,7 +1592,7 @@
        style="font-size:25px;font-family:Consolas">8</text></g><g
      id="9-3"
      data-name="9"
-     transform="translate(776,205.5)"><rect
+     transform="translate(778,207.5)"><rect
        id="rect9-1-50"
        width="18.75"
        height="25"
@@ -1602,78 +1602,25 @@
        id="text9-1-5"
        x="2.6550293"
        y="20.587158"
-       style="font-size:25px;font-family:Consolas">9</text></g><rect
-     style="fill:none;stroke:#000000"
-     id="rect6053"
-     width="200"
-     height="100"
-     x="0.5"
-     y="0.5" /><rect
-     style="fill:none;stroke:#000000"
-     id="rect6055"
-     width="200"
-     height="100"
-     x="200.5"
-     y="0.5" /><rect
-     style="fill:none;stroke:#000000"
-     id="rect6057"
-     width="200"
-     height="100"
-     x="400.5"
-     y="0.5"
-     ry="0"
-     rx="0" /><rect
-     style="fill:none;stroke:#000000"
-     id="rect6059"
-     width="200"
-     height="100"
-     x="600.5"
-     y="0.5" /><rect
-     style="fill:none;stroke:#000000"
-     id="rect6061"
-     width="200"
-     height="100"
-     x="0.5"
-     y="100.5" /><rect
-     style="fill:none;stroke:#000000"
-     id="rect6063"
-     width="200"
-     height="100"
-     x="200.5"
-     y="100.5" /><rect
-     style="fill:none;stroke:#000000"
-     id="rect6065"
-     width="200"
-     height="100"
-     x="400.5"
-     y="100.5" /><rect
-     style="fill:none;stroke:#000000"
-     id="rect6067"
-     width="200"
-     height="100"
-     x="600.5"
-     y="100.5" /><rect
-     style="fill:none;stroke:#000000"
-     id="rect6069"
-     width="200"
-     height="100"
-     x="0.5"
-     y="200.5" /><rect
-     style="fill:none;stroke:#000000"
-     id="rect6071"
-     width="200"
-     height="100"
-     x="200.5"
-     y="200.5" /><rect
-     style="fill:none;stroke:#000000"
-     id="rect6073"
-     width="200"
-     height="100"
-     x="400.5"
-     y="200.5" /><rect
-     style="fill:none;stroke:#000000"
-     id="rect6075"
-     width="200"
-     height="100"
-     x="600.5"
-     y="200.5" /></svg>
+       style="font-size:25px;font-family:Consolas">9</text></g><path
+     style="fill:none;stroke:#000000;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0"
+     d="m 2.5,102.5 h 800"
+     id="path2957" /><path
+     style="fill:none;stroke:#000000;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0"
+     d="m 2.5,202.5 h 800"
+     id="path3206" /><rect
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-dasharray:none;stroke-dashoffset:0"
+     id="rect3208"
+     width="800"
+     height="300"
+     x="2.5"
+     y="2.5" /><path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0"
+     d="m 202.5,2.5 v 300"
+     id="path3210" /><path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0"
+     d="m 402.5,2.5 v 300"
+     id="path3212" /><path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0"
+     d="m 602.5,2.5 v 300"
+     id="path3214" /></svg>

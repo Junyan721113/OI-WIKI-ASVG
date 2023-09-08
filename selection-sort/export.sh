@@ -15,10 +15,7 @@ done
 
 echo "assemble apng ..."
 
-apngasm -o selection-sort.apng selection-sort*.svg.png -d 400
-apng2gif selection-sort.apng
+apngasm -o selection-sort.png selection-sort*.svg.png -d 1000
+apng2gif selection-sort.png
 
 echo "convert printable ..."
-
-cp selection-sort.svg selection-sort.printable.svg
-

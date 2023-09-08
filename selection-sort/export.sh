@@ -20,5 +20,5 @@ apng2gif selection-sort.apng
 
 echo "convert printable ..."
 
-cp selection-sort.svg.png selection-sort.apng.printable
+cp selection-sort.svg selection-sort.printable.svg
 

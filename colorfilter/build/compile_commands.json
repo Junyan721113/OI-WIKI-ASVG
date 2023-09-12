@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/Junyan/workspace/OI-WIKI-ASVG/colorfilter/build",
+  "command": "/usr/bin/g++ -isystem /opt/opencv/include/opencv4 -g -o CMakeFiles/colorfilter.dir/main.cpp.o -c /home/Junyan/workspace/OI-WIKI-ASVG/colorfilter/main.cpp",
+  "file": "/home/Junyan/workspace/OI-WIKI-ASVG/colorfilter/main.cpp",
+  "output": "CMakeFiles/colorfilter.dir/main.cpp.o"
+}
+]

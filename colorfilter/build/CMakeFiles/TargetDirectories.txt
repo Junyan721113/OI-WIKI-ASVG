@@ -1,0 +1,3 @@
+/home/Junyan/workspace/OI-WIKI-ASVG/colorfilter/build/CMakeFiles/colorfilter.dir
+/home/Junyan/workspace/OI-WIKI-ASVG/colorfilter/build/CMakeFiles/edit_cache.dir
+/home/Junyan/workspace/OI-WIKI-ASVG/colorfilter/build/CMakeFiles/rebuild_cache.dir
